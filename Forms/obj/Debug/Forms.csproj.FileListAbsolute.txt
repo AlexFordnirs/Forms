@@ -1,0 +1,37 @@
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\Student.ITSTEP1\source\repos\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\DChaos\Desktop\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\DChaos\Desktop\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\DChaos\Desktop\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\DChaos\Desktop\Forms\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\DChaos\Desktop\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\DChaos\Desktop\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\DChaos\Desktop\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\DChaos\Desktop\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\DChaos\Desktop\Forms\Forms\obj\Debug\Forms.pdb
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\bin\Debug\Forms.exe.config
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\bin\Debug\Forms.exe
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\bin\Debug\Forms.pdb
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csprojAssemblyReference.cache
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.exe
+C:\Users\Alex\Downloads\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.pdb
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\bin\Debug\Forms.exe.config
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\bin\Debug\Forms.exe
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\bin\Debug\Forms.pdb
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csproj.AssemblyReference.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csproj.SuggestedBindingRedirects.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.Properties.Resources.resources
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csproj.GenerateResource.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.csproj.CoreCompileInputs.cache
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.exe
+J:\Всё с компа для переустановки винды\Загрузки\Telegram Desktop\Новая папка\Forms\Forms\obj\Debug\Forms.pdb
